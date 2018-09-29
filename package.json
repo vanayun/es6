@@ -1,0 +1,32 @@
+{
+  "name": "es6",
+  "version": "1.0.0",
+  "description": "es6 test study",
+  "main": "index.js",
+  "dependencies": {
+    "underscore": "^1.9.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.1.0",
+    "@babel/preset-env": "^7.1.0",
+    "babel-preset-es2015": "^6.24.1",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^8.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vanayun/es6.git"
+  },
+  "keywords": [
+    "es6"
+  ],
+  "author": "vana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vanayun/es6/issues"
+  },
+  "homepage": "https://github.com/vanayun/es6#readme"
+}
