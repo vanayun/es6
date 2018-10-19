@@ -15,4 +15,4 @@ module.exports = {
     semi: ['error', 'always'],
     'no-console': 0
   }
-}
+};

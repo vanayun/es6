@@ -4,6 +4,8 @@
   "description": "es6 test study",
   "main": "index.js",
   "dependencies": {
+    "core-js": "^2.5.7",
+    "moment-timezone": "^0.5.21",
     "underscore": "^1.9.1"
   },
   "devDependencies": {
