@@ -25,3 +25,5 @@ Math.max(x1, x2); // 매개변수 중 최대값
 
 Math.random(); // 난수 0이상 ~ 1미만
 x + (x2 - x) * Math.random(); // x이상 x2미만
+x + Math.floor((x2 - x) * Math.random()); // x이상 x2미만의 정수
+x + Math.floor((x2 - x + 1) * Math.random()); // x이상 x2이하의 정수
